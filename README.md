@@ -1,6 +1,6 @@
 [<img src="Animation4.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
-<h4>About Me</h4>
+####About Me
 <p>
 
 - 🎓Completed my Bachelors of Engineering in Computer Science and Engineering in June 2023 with a GPA of 8.12
@@ -11,7 +11,7 @@
 </p>
 
 
-<h4>I'm currently</h4>
+####I'm currently
 
 - Participating in Hacktoberfest ! Sign up at <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖</a>- 
 - Developing a Sneaker Store application for one of my friends who owns a sneaker store .
