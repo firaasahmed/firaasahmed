@@ -1,4 +1,4 @@
-<img href="https://github.com/firaasahmed" src="Animation4.gif" alt="👋 Hi there! I'm Firaas" title="👋 Hi there! I'm Firaas"/>
+<a href="#"><img src="Animation4.gif" alt="👋 Hi there! I'm Firaas" title="👋 Hi there! I'm Firaas"/></a>
 <hr>
 <em><h3>About Me</h3></em>
 
