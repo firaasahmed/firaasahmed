@@ -1,6 +1,6 @@
 [<img src="Animation4.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
-<code style="font-size: 28px; font-weight:bold">About Me</code>
+<span style="font-size: 28px; font-weight:bold">About Me</span>
 <p>
 
 - 🎓Completed my Bachelors of Engineering in Computer Science and Engineering in June 2023 with a GPA of 8.12
@@ -11,7 +11,7 @@
 </p>
 
 
-<code style="font-size: 28px;font-weight:bold;">I'm currently</code>
+<span style="font-size: 28px;font-weight:bold;">I'm currently</span>
 
 - Participating in Hacktoberfest ! Sign up at <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖</a>- 
 - Developing a Sneaker Store application for one of my friends who owns a sneaker store .
@@ -19,7 +19,7 @@
 
 
 
-<code style="font-size: 28px;font-weight:bold;">How to Reach Me :</code>
+<span style="font-size: 28px;font-weight:bold;">How to Reach Me :</span>
 
 
 <a href="https://www.linkedin.com/in/firaasahmed/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a> &nbsp; <a href="mailto:firaas.cs@gmail.com" > <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>&nbsp; &nbsp;
