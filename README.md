@@ -1,5 +1,5 @@
 <img href="https://github.com/firaasahmed" src="Animation4.gif" alt="👋 Hi there! I'm Firaas" title="👋 Hi there! I'm Firaas"/>
-
+<hr>
 <em><h3>About Me</h3></em>
 
 - 🎓Completed my Bachelors of Engineering in Computer Science and Engineering in June 2023 with a GPA of 8.12
