@@ -1,4 +1,4 @@
-[<img src="Animation4.gif" alt="👋 Hi there! I'm Firaas" title="👋 Hi there! I'm Firaas"/>
+<img src="Animation4.gif" alt="👋 Hi there! I'm Firaas" title="👋 Hi there! I'm Firaas"/>
 
 About Me
 
