@@ -6,7 +6,7 @@
 - 📃 Applied For Msc in Computer Science in Canada, Ireland and Germany (Awaiting Response 🤞)
 - 🎮 I play League of Legends and Valorant when i have spare time, you can connect with me on discord  ( Id: true_st ) or add me as a friend using my RiotId (True #Craft).
 
-
+<hr>
 
 <em><h3>I'm currently</h3></em>
 
@@ -15,13 +15,13 @@
 - Applying for Msc in Computer Science
 - learning german
 
-
+<hr>
 
 <em><h3>How to Reach Me :</h3></em>
 
 
 <a href="https://www.linkedin.com/in/firaasahmed/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a> &nbsp; <a href="mailto:firaas.cs@gmail.com" > <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>&nbsp; &nbsp;
 
-
+<hr>
 
 
