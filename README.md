@@ -1,7 +1,8 @@
 [<img src="Animation4.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ###About Me
-yaml```
+
+```
 - 🎓Completed my Bachelors of Engineering in Computer Science and Engineering in June 2023 with a GPA of 8.12
 - 📃 Applied For Msc in Computer Science in Canada, Ireland and Germany (Awaiting Response 🤞)
 - 🎮 I play League of Legends and Valorant when i have spare time, you can connect with me on discord  ( Id: true_st ) or add me as a friend using my RiotId (True #Craft).
