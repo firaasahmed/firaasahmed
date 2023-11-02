@@ -8,7 +8,7 @@
 
 
 
-<h3>I'm currently</h3>
+<em><h3>I'm currently</h3></em>
 
 - Participating in Hacktoberfest ! Sign up at <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖</a>- 
 - Developing a Sneaker Store application for one of my friends who owns a sneaker store .
