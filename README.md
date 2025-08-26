@@ -1,6 +1,3 @@
-<a href="#"><img src="Animation4.gif" alt="👋 Hi there! I'm Firaas" title="👋 Hi there! I'm Firaas"/></a>
-<hr>
-
 <em><h3>How to Reach Me :</h3></em>
 
 
