@@ -1,6 +1,6 @@
 # Hi, I'm Firaas!
 
-I am a **Master of Information Technology** student at the **University of Newcastle** with a background in **Computer Science Engineering**. I specialize in full-stack development and cloud deployments, with a track record of leading technical teams through Agile sprints.
+I am a **Master of Information Technology** student at the **University of Newcastle** with a background in **Computer Science Engineering**. I specialize in full-stack development and cloud deployments.
 
 ---
 ### Technical Skills
